@@ -23,9 +23,9 @@ SQS da AWS com Spring Cloud e LocalStack.
   ```shell
   chmod +x setup_run.sh
   ```
-  
+
   * Execute o script
   
   ```shell
   ./setup_run.sh
- ```
+  ```
